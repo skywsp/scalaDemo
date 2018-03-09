@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.dafy.p2p:P2PCommon:20170614-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dafy/p2p/P2PCommon/20170614-SNAPSHOT/P2PCommon-20170614-20170619.024122-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dafy/p2p/P2PCommon/20170614-SNAPSHOT/P2PCommon-20170614-20170619.024122-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dafy/p2p/P2PCommon/20170614-SNAPSHOT/P2PCommon-20170614-20170619.024122-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
