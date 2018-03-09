@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="DebtLoad:war">
-    <output-path>D:/ideaProjects/DebtLoad/target</output-path>
-    <root id="archive" name="DebtLoad.war">
-      <element id="artifact" artifact-name="DebtLoad:war exploded" />
-    </root>
-  </artifact>
-</component>
